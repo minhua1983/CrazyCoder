@@ -1,0 +1,6 @@
+.wnjbk/
+.vs
+*.suo
+*/bin/
+*/obj/
+*/log/
